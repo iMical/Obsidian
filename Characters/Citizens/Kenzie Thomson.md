@@ -10,4 +10,9 @@ Dislikes: The Cult, Sarah Hills
 Motives: Wants to be an actress.
 
 --LINKS--
+-Personal Relationships
 [[Sarah Hills]]
+[[John Smith]]
+[[Gary Walker]]
+-Locations-
+[[Port]]
