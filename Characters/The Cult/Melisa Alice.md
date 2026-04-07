@@ -17,10 +17,12 @@ Motives: Wishes to spread the beliefs of The Cult to the next generation. Finds 
 
 --LINKS--
 -Personal Relationships-
-[[John Smith]]
-[[Gary Walker]]
 [[Bob Fisher]]
 [[Brandon Edwards]]
+[[Edward Edwards]]
+[[Gary Walker]]
+[[John Smith]]
 [[Linda Brown]]
+[[Raymond Burns]]
 -Locations-
 [[The Cult]]

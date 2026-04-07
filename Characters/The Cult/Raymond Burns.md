@@ -13,6 +13,7 @@ Motives: Finds comfort in The Cult. The only place that treats him 'normally' co
 -Personal Relationships-
 [[Bob Fisher]]
 [[Brandon Edwards]]
+[[Edward Edwards]]
 [[Gary Walker]]
 [[John Smith]]
 [[Linda Brown]]

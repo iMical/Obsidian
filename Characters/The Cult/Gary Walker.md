@@ -20,5 +20,6 @@ Motives: Wants to spread the beliefs of The Cult to older generations, understan
 [[Raymond Burns]]
 [[Kenzie Thomson]]
 [[Tim Burghton]]
+[[Matthew Hills]]
 -Locations-
 [[The Cult]]

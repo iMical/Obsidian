@@ -17,9 +17,7 @@ Motives: Wants to keep The Cult a secret, to protect it. Uses the witch trial ac
 [[Gary Walker]]
 [[Linda Brown]]
 [[Melisa Alice]]
+[[Raymond Burns]]
 [[Kenzie Thomson]]
-[[Melisa Alice]]
-[[Gary Walker]]
-[[Linda Brown]]
 -Locations-
 [[The Cult]]

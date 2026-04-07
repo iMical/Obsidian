@@ -13,9 +13,11 @@ Motives: While other council members focus on spreading beliefs, Linda Brown foc
 -Personal Relationships-
 [[Bob Fisher]]
 [[Brandon Edwards]]
+[[Edward Edwards]]
 [[Gary Walker]]
 [[John Smith]]
 [[Melisa Alice]]
+[[Raymond Burns]]
 [[Jennifer Hills]]
 -Locations-
 [[The Cult]]
