@@ -8,3 +8,7 @@ Occupation:
 Interests:
 Dislikes:
 Motives:
+
+--LINKS--
+-Personal Relationships-
+-Locations-
