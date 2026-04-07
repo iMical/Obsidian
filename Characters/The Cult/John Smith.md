@@ -4,7 +4,7 @@ Short Description: One of the Eight Council Members of The Cult. Considered the 
 
 Age: 52
 Vital Status: Alive
-Occupation: Council Member of The Cult
+Occupation: Doctor, Council Member of The Cult
 Interests: The Cult
 Dislikes: Disbelievers
 Motives: Wants to keep The Cult a secret, to protect it. Uses the witch trial accusations to hide The Cult
@@ -13,6 +13,8 @@ Motives: Wants to keep The Cult a secret, to protect it. Uses the witch trial ac
 -Personal Relationships-
 [[Kenzie Thomson]]
 [[Melissa Alice]]
+[[Gary Walker]]
+[[Bob Fisher]]
 -Locations-
 [[Green Vine Forest]]
 [[The Cult]]
