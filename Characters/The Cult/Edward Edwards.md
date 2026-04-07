@@ -17,5 +17,6 @@ Motives: Being Brandon Edwards, child, Edward Edwards wants nothing more than to
 [[John Smith]]
 [[Linda Brown]]
 [[Melisa Alice]]
+[[Raymond Burns]]
 -Locations-
 [[The Cult]]

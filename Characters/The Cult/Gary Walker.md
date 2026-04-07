@@ -11,11 +11,13 @@ Motives: Wants to spread the beliefs of The Cult to older generations, understan
 
 --LINKS--
 -Personal Relationships-
-[[John Smith]]
-[[Melisa Alice]]
 [[Bob Fisher]]
 [[Brandon Edwards]]
+[[Edward Edwards]]
+[[John Smith]]
 [[Linda Brown]]
+[[Melisa Alice]]
+[[Raymond Burns]]
 [[Kenzie Thomson]]
 [[Tim Burghton]]
 -Locations-
