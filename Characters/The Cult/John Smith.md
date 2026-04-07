@@ -10,3 +10,4 @@ Wants nothing more but to protect the cult and its standings rather than to spre
 [[Melissa Alice]]
 -Locations-
 [[Green Vine Forest]]
+[[The Cult]]

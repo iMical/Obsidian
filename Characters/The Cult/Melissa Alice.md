@@ -10,3 +10,4 @@ Believes that converting children at young ages is the best way to spread the be
 [[John Smith]]
 -Locations-
 [[Green Vine Forest]]
+[[The Cult]]
