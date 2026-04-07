@@ -17,5 +17,4 @@ Motives: Wants to spread the beliefs of The Cult to older generations, understan
 [[Kenzie Thomson]]
 [[Tim Burghton]]
 -Locations-
-[[Green Vine Forest]]
 [[The Cult]]

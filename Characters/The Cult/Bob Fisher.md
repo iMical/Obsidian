@@ -15,5 +15,4 @@ Motives: Finds value in the economy, believing money runs the world. Works as a 
 [[John Smith]]
 [[Melissa Alice]]
 -Locations-
-[[Green Vine Forest]]
 [[The Cult]]

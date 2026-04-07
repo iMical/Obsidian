@@ -16,5 +16,4 @@ Motives: Wants to keep The Cult a secret, to protect it. Uses the witch trial ac
 [[Gary Walker]]
 [[Bob Fisher]]
 -Locations-
-[[Green Vine Forest]]
 [[The Cult]]

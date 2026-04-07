@@ -1,4 +1,4 @@
-
+![[picture1.webp]]
 Major plot point
 Occupation: A Mother at the Port Mannis Orphanage
 One of Eight council members of The Cult
@@ -21,5 +21,4 @@ Motives: Wishes to spread the beliefs of The Cult to the next generation. Finds 
 [[Gary Walker]]
 [[Bob Fisher]]
 -Locations-
-[[Green Vine Forest]]
 [[The Cult]]
