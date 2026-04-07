@@ -12,9 +12,10 @@ Motives: Founder of The Cult, wanting to spread to the new generation. Looking f
 --LINKS--
 -Personal Relationships-
 [[Bob Fisher]]
+[[Edward Edwards]]
 [[Gary Walker]]
 [[John Smith]]
-[[Melisa Alice]]
 [[Linda Brown]]
+[[Melisa Alice]]
 -Locations-
 [[The Cult]]

@@ -11,11 +11,12 @@ Motives: Finds value in the economy, believing money runs the world. Works as a 
 
 --LINKS--
 -Personal Relationships-
+[[Brandon Edwards]]
+[[Edward Edwards]]
 [[Gary Walker]]
 [[John Smith]]
-[[Melisa Alice]]
-[[Brandon Edwards]]
 [[Linda Brown]]
+[[Melisa Alice]]
 -Locations-
 [[The Cult]]
 [[Port Mannis]]
