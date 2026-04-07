@@ -5,4 +5,8 @@ Occupation: Reporter
 Motives: Discovering the truth behind the Salem Witch Trials
 
 --LINKS--
+-Personal Relationships-
 [[Jennifer Hills]]
+[[Matthew Hills]]
+-Locations-
+[[Port Mannis]]
