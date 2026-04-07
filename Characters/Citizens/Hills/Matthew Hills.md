@@ -1,4 +1,4 @@
-
+![[leon-kennedy-is-absurdly-attractive-in-resident-evil-4-v0-24o386br63ta1.webp|262]]
 Importance to Story: Minor Plot Point
 Short Description: Father of Sarah Hills. Believed to have died due to natural causes, illness. Passed when Sarah was 8 years old, creating the Sarah known today. Matthew Hills was Port Mannis' greatest reporter, known for truth over fear for his own life.
 

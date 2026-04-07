@@ -1,4 +1,4 @@
-
+![[Mia_Winters_RE8.webp|269]]
 Importance to Story: Minor Plot Point
 Short Description: Mother of Sarah Hills. She grew to be protective by nature after the death of her late husband, Matthew Hills. She is Sarah's greatest support and first to notice her indoctrination into the cult.
 

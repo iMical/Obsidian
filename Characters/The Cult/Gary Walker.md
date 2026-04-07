@@ -1,4 +1,4 @@
-
+![[Pasted image 20260406202823.jpg|259]]
 Importance to Story: Major Plot Point
 Short Description: One of the Eight Council Members of the Cult. Considered the 'Fearmonger,' for his usage of psychological manipulation to indoctrinate citizens of Port Mannis into the cult.
 
