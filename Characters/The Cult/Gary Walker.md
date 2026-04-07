@@ -14,6 +14,8 @@ Motives: Wants to spread the beliefs of The Cult to older generations, understan
 [[John Smith]]
 [[Melisa Alice]]
 [[Bob Fisher]]
+[[Brandon Edwards]]
+[[Linda Brown]]
 [[Kenzie Thomson]]
 [[Tim Burghton]]
 -Locations-

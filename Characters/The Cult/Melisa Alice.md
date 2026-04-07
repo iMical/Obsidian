@@ -20,5 +20,7 @@ Motives: Wishes to spread the beliefs of The Cult to the next generation. Finds 
 [[John Smith]]
 [[Gary Walker]]
 [[Bob Fisher]]
+[[Brandon Edwards]]
+[[Linda Brown]]
 -Locations-
 [[The Cult]]

@@ -14,6 +14,8 @@ Motives: Finds value in the economy, believing money runs the world. Works as a 
 [[Gary Walker]]
 [[John Smith]]
 [[Melisa Alice]]
+[[Brandon Edwards]]
+[[Linda Brown]]
 -Locations-
 [[The Cult]]
 [[Port Mannis]]

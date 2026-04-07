@@ -15,5 +15,6 @@ Motives: Founder of The Cult, wanting to spread to the new generation. Looking f
 [[Gary Walker]]
 [[John Smith]]
 [[Melisa Alice]]
+[[Linda Brown]]
 -Locations-
 [[The Cult]]
