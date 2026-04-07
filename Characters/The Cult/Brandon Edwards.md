@@ -1,6 +1,6 @@
-
+![[Danganronpa_3_-_Kazuo_Tengan_%28Future%29_Sidebar.webp|261]]
 Importance to Story: Major Plot Point
-Short Description: One of the Eight Council Members of the Cult. Considered the 'All Father,' for birthing The Cult after the discovery of the building. The leader of The Cult below ------.
+Short Description: One of the Eight Council Members of the Cult. Considered the 'All Father,' for birthing The Cult after the discovery of the building. The leader of The Cult below The Great One.
 
 Age: 92
 Vital Status: Alive
