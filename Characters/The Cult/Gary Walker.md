@@ -12,7 +12,7 @@ Motives: Wants to spread the beliefs of The Cult to older generations, understan
 --LINKS--
 -Personal Relationships-
 [[John Smith]]
-[[Melissa Alice]]
+[[Melisa Alice]]
 [[Bob Fisher]]
 [[Kenzie Thomson]]
 [[Tim Burghton]]

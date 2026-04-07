@@ -13,6 +13,6 @@ Motives: Finds value in the economy, believing money runs the world. Works as a 
 -Personal Relationships-
 [[Gary Walker]]
 [[John Smith]]
-[[Melissa Alice]]
+[[Melisa Alice]]
 -Locations-
 [[The Cult]]
