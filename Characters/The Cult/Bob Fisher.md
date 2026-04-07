@@ -2,6 +2,7 @@
 Importance to Story: Major Plot Point
 Short Description: One of the Eight Council Members of the Cult. Considered the 'Master Baiter,' for his power within the whaling industry. One of The Cult's greatest money income. 
 
+
 Age: 32
 Vital Status: Alive
 Occupation: Whaler, Council Member of The Cult
