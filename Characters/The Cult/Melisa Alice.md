@@ -26,3 +26,4 @@ Motives: Wishes to spread the beliefs of The Cult to the next generation. Finds 
 [[Raymond Burns]]
 -Locations-
 [[The Cult]]
+[[Port Mannis Orphanage]]
