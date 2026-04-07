@@ -15,4 +15,4 @@ Motives: Wants to be an actress.
 [[John Smith]]
 [[Gary Walker]]
 -Locations-
-[[Port]]
+[[Port Mannis]]
