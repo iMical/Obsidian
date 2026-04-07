@@ -1,4 +1,4 @@
-
+![[Pasted image 20260406225204.jpg|271]]
 Importance to Story: Minor Plot Point
 Short Description: The Mayor of Port Mannis, and last descendant of the Burghton family. He is aware of the existence of the cult and chooses silence over exposure, a means to ensure his life as much as the life of the cult.
 
