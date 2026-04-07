@@ -8,3 +8,6 @@ i know the second command i just used UwU
 cd Downloads
 ls
 we learned surface level through takara
+
+i hat egitbash and everythign that cares for it
+curse you gitbash
