@@ -1,6 +1,6 @@
 
 Importance to Story: Major Plot Point
-Short Description: One of the Eight Council Members of the Cult. Considered the 'Crazed One,' for his reputation as the only case of psychosis in Port Mannis. His unique view of the world keeps The Cult unpredictable.
+Short Description: One of the Eight Council Members of the Cult. Considered the 'Nepo Baby,' only becoming a council member for his blood.
 
 Age: 8
 Vital Status: Alive

@@ -13,5 +13,6 @@ Motives: First to discover The Cult. Wanted to create his magnum opis, a way to 
 -Personal Relationships-
 [[Sarah Hills]]
 [[Jennifer Hills]]
+[[Gary Walker]]
 -Locations-
 [[Port Mannis]]

@@ -13,5 +13,6 @@ Motives:
 -Personal Relationships-
 [[Sarah Hills]]
 [[Matthew Hills]]
+[[Linda Brown]]
 -Locations-
 [[Port Mannis]]
