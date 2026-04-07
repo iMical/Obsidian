@@ -5,7 +5,7 @@ Short Description: The beginning of the Port Mannis Witch Trials as a result of 
 Age: 16
 Vital Status: Alive
 Occupation: High School Student
-Interests: School, Friends, The Cult
+Interests: School, Friends, The Cult, Ken Thomson
 Dislikes: The Cult, Sarah Hills
 Motives: Wants to be an actress.
 
