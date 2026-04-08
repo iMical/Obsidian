@@ -6,8 +6,8 @@ Age: 41
 Vital Status: Alive
 Occupation: Social Worker
 Interests: Sarah and Matthew Hills, Gardening
-Dislikes: 
-Motives:
+Dislikes: The Cult
+Motives: Wants to protect Sarah Hills after the death of her late husband, Matthew Hills.
 
 --LINKS--
 -Personal Relationships-
