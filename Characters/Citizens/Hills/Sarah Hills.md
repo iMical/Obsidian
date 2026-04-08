@@ -13,5 +13,7 @@ Motives: Wants to continue her father's work. Finds an unanswerable attraction t
 -Personal Relationships-
 [[Jennifer Hills]]
 [[Matthew Hills]]
+[[Ken Thomson]]
+[[Maria Chizuru]]
 -Locations-
 [[Port Mannis]]
