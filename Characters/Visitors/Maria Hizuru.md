@@ -1,6 +1,6 @@
-
+![[Pasted image 20260408072704.jpg]]
 Importance to Story: Major Plot Point
-Short Description:
+Short Description: 
 
 Age: 31
 Vital Status: Alive
