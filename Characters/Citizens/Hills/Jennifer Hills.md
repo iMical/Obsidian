@@ -5,8 +5,8 @@ Short Description: Mother of Sarah Hills. She grew to be protective by nature af
 Age: 41
 Vital Status: Alive
 Occupation: Social Worker
-Interests: Sarah and Matthew Hills, Gardening, 
-Dislikes:
+Interests: Sarah and Matthew Hills, Gardening
+Dislikes: 
 Motives:
 
 --LINKS--
