@@ -12,7 +12,7 @@ Motives: Wishes to aid Maria Chizuru and Sarah Hills by supplying weaponry.
 --LINKS--
 -Personal Relationships-
 [[Kenzie Thomson]]
-[[Maria Chizuru]]
+[[Maria Hizuru]]
 [[Sarah Hills]]
 -Locations-
 [[Port Mannis]]

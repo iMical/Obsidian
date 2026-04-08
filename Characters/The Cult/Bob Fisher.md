@@ -13,7 +13,7 @@ Motives: Finds value in the economy, believing money runs the world. Works as a 
 --LINKS--
 -Personal Relationships-
 [[Benjamin Beethoven]]
-[[Maria Chizuru]]
+[[Maria Hizuru]]
 [[Brandon Edwards]]
 [[Edward Edwards]]
 [[Gary Walker]]
