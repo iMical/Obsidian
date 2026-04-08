@@ -1,4 +1,4 @@
-![[Pasted image 20260408072704.jpg]]
+![[Pasted image 20260408072704.jpg|260]]
 Importance to Story: Major Plot Point
 Short Description: 
 
