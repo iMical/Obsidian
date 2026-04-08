@@ -11,6 +11,7 @@ Motives: Wants to be remembered as a symbol of strength within Port Mannis.
 
 --LINKS--
 -Personal Relationships-
+[[Benjamin Beethoven]]
 [[Matthew Hills]]
 [[Gary Walker]]
 -Locations-

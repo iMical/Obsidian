@@ -11,6 +11,7 @@ Motives: Founder of The Cult, wanting to spread to the new generation. Looking f
 
 --LINKS--
 -Personal Relationships-
+[[Maria Chizuru]]
 [[Bob Fisher]]
 [[Edward Edwards]]
 [[Gary Walker]]
