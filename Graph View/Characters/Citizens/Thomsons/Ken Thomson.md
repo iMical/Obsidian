@@ -2,7 +2,7 @@
 Importance to Story: Minor Plot Point
 Short Description: The father of Kenzie Thomson. Works as a blacksmith, forging weaponry. Masters his craft as Maria Chizuru arrives in town to hunt the witches described by Sarah Hills.
 
-Age: 42
+Age: 48
 Vital Status: Alive
 Occupation: Blacksmith
 Interests: Smithery, Weaponry, Kenzie Thomson
