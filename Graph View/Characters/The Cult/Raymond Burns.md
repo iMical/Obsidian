@@ -18,5 +18,7 @@ Motives: Finds comfort in The Cult. The only place that treats him 'normally' co
 [[John Smith]]
 [[Linda Brown]]
 [[Melisa Alice]]
+[[Kenzie Thomson]]
+[[Benjamin Beethoven]]
 -Locations-
 [[The Cult]]
