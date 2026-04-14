@@ -15,5 +15,6 @@ Motives: Wants to be an actress.
 [[Sarah Hills]]
 [[John Smith]]
 [[Gary Walker]]
+[[Benjamin Beethoven]]
 -Locations-
 [[Port Mannis]]

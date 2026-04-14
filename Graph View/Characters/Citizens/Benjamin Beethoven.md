@@ -5,7 +5,7 @@ Short Description: Lead developer in Port Mannis' honey industry. He is the seco
 Age: 55
 Vital Status: Alive
 Occupation: Beekeeper
-Interests: Beekeeping, Money, Fame
+Interests: Beekeeping, Money, Fame, Kenzie Thomson
 Dislikes: Tom Burghton
 Motives: Works towards gaining a monopoly over the honey industry in Port Mannis.
 
@@ -14,6 +14,7 @@ Motives: Works towards gaining a monopoly over the honey industry in Port Mannis
 [[Tim Burghton]]
 [[Raymond Burns]]
 [[Bob Fisher]]
+[[Kenzie Thomson]]
 -Locations-
 [[Green Vine Forest]]
 [[Port Mannis]]
