@@ -11,6 +11,7 @@ Motives: Wants to be remembered as a symbol of strength within Acidi
 
 --LINKS--
 -Personal Relationships-
+[[Tim Burghton]]
 -Locations-
 [[Acidi]]
 [[Port Mannis]]
