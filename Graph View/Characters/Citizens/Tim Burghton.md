@@ -5,7 +5,7 @@ Short Description: The Mayor of Port Mannis, and last descendant of the Burghton
 Age: 68
 Vital Status: Alive
 Occupation: Port Mannis Mayor
-Interests: Fishing, Beekeeping, Money, Fame
+Interests: Fishing, Beekeeping, Money, Fame, Tourism
 Dislikes: The Cult, Opposition of Power
 Motives: Wants to be remembered as a symbol of strength within Port Mannis.
 
